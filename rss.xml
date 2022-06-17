@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>PHP</title>
+        <link>http://example.com</link>
+        <description>PHP dedicated portal</description>
+        <language>en</language>
+        <pubDate>Tue, 17 Dec 2015 15:30:00 +0300</pubDate>
+        <item>
+            <title>PHP 8.0.0 released</title>
+            <description>
+                PHP 8 has been officially released to the General Availability 
+                on November 26, 2020! This new major update brings many optimizations 
+                and powerful features to the language
+            </description>
+            <link>http://example.com/news/177</link>
+            <guid>news/177</guid>
+            <pubDate>Tue, 17 Dec 2015 15:30:00 +0300</pubDate>
+            <enclosure 
+            url="http://example.com/images/177/9765a78af8f6fcb2009c3440730d8311.jpg"
+            type="image/jpeg"/>
+        </item>
+        <item>
+            <title>PHP 8.0.0 released</title>
+            <description>
+                PHP 8 has been officially released to the General Availability 
+                on November 26, 2020! This new major update brings many optimizations 
+                and powerful features to the language
+            </description>
+            <link>http://example.com/news/178</link>
+            <guid>news/178</guid>
+            <pubDate>Tue, 17 Dec 2015 21:30:00 +0300</pubDate>
+            <enclosure 
+            url="http://example.com/images/178/a8e8ee34f9a85116cb60417585129cfe.jpg"
+            type="image/jpeg"/>
+        </item>
+        <item>
+            <title>PHP 7.0.0 released</title>
+            <description>
+                PHP 7 has been officially released to the General Availability 
+                on ...! This new major update brings many optimizations 
+                and powerful features to the language
+            </description>
+            <link>http://example.com/news/179</link>
+            <guid>news/178</guid>
+            <pubDate>Tue, 17 Dec 2015 10:30:00 +0300</pubDate>
+            <enclosure 
+            url="http://example.com/images/179/66f5e2c68f2dd9cf2c2541d298013f3a.jpg"
+            type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
